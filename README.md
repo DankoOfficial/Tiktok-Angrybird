@@ -1,8 +1,9 @@
-# TikTok AngryBird 🦅
+![Screenshot_18](https://github.com/user-attachments/assets/42e7229e-035e-4b73-8dbc-de44c14e0a2c)# TikTok AngryBird 🦅
 
 A powerful TikTok video analysis tool that combines data scraping and visualization capabilities. This project consists of a desktop scraper application and a web-based analytics dashboard.
 
 ## Features
+![Screenshot_17](https://github.com/user-attachments/assets/30f8204a-ea95-4668-bc9c-36b436b8ba82)
 
 ### Desktop Scraper (main.py)
 - 🔐 Cookie-based authentication for TikTok access
@@ -10,6 +11,8 @@ A powerful TikTok video analysis tool that combines data scraping and visualizat
 - 🎯 Smart filtering for dropshipping-related content
 - 💾 Excel export functionality
 - 🖥️ User-friendly GUI built with CustomTkinter
+  
+![Screenshot_18](https://github.com/user-attachments/assets/7caa5d44-7bd2-48ac-85f3-d24729634a6a)
 
 ### Analytics Dashboard (frontend.py)
 - 📊 Interactive data visualizations with Plotly
