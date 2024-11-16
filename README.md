@@ -12,8 +12,9 @@ A powerful TikTok video analysis tool that combines data scraping and visualizat
 - 🎯 Smart filtering for dropshipping-related content
 - 💾 Excel export functionality
 - 🖥️ User-friendly GUI built with CustomTkinter
-  
-![Screenshot_18](https://github.com/user-attachments/assets/7caa5d44-7bd2-48ac-85f3-d24729634a6a)
+
+  ![Screenshot_19](https://github.com/user-attachments/assets/39e2e6aa-8571-443e-b001-eab3c183897b)
+
 
 ### Analytics Dashboard (frontend.py)
 - 📊 Interactive data visualizations with Plotly
