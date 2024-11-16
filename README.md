@@ -17,7 +17,7 @@ A powerful TikTok video analysis tool that combines data scraping and visualizat
 - 💾 Excel export functionality
 - 🖥️ User-friendly GUI built with CustomTkinter
 
-![Uploading Screenshot_18.png…]()
+![Screenshot_18](https://github.com/user-attachments/assets/9ee0884d-9118-4323-b411-dcd64a5587ce)
 
 
 ### Analytics Dashboard (frontend.py)
