@@ -1,7 +1,11 @@
 # TikTok AngryBird 🦅
-![Screenshot_18](https://github.com/user-attachments/assets/42e7229e-035e-4b73-8dbc-de44c14e0a2c)
 
 A powerful TikTok video analysis tool that combines data scraping and visualization capabilities. This project consists of a desktop scraper application and a web-based analytics dashboard.
+
+## Demo Video
+[![TikTok AngryBird Demo](https://img.youtube.com/vi/-N17M3Ky14c/maxresdefault.jpg)](https://www.youtube.com/watch?v=-N17M3Ky14c)
+
+🎥 **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=-N17M3Ky14c)**
 
 ## Features
 ![Screenshot_17](https://github.com/user-attachments/assets/30f8204a-ea95-4668-bc9c-36b436b8ba82)
